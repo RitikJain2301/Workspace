@@ -6,16 +6,14 @@
 	],
 	"settings": {
 		"robot.language-server.python": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
-		"workbench.colorCustomizations": {
-		
-		}
 	},
 	"terminal.integrated.profiles.windows": {
-		"GitBash": {
-		  "source": "Git Bash",
-		  "path": ["C:\\Users\\Administrator\\AppData\\Local\\Git\bin\\bash.exe"],
-		  "icon": "terminal-bash"
-		}
+			"GitBash": {
+				"source": "GitBash",
+				"path": ["C:\\Users\\Administrator\\AppData\\Local\\Git\\bin\\bash.exe"],
+				"icon": "terminal-bash"
+				}
 	  },
-	  "terminal.integrated.defaultProfile.windows": "Git Bash",
+	"terminal.integrated.defaultProfile.windows": "GitBash"
+
 }

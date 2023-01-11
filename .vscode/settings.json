@@ -1,3 +1,11 @@
 {
-    "robot.language-server.python": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python310\\python.exe"
+    "robot.language-server.python": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "terminal.integrated.profiles.windows": {
+		"GitBash": {
+				"source": "GitBash",
+				"path": "C:\\Users\\Administrator\\AppData\\Local\\Git\\bin\\bash.exe",
+				"icon": "terminal-bash"
+				}
+	  },
+	"terminal.integrated.defaultProfile.windows": "GitBash",
 }
