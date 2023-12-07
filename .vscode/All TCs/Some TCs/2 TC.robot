@@ -11,3 +11,6 @@ Test 2a TC
 Test 2b TC
     Log    this is my 2b TC
     
+*** Keywords ***
+This is a import keyword
+    Open Browser    https:\\www.google.com     Chrome

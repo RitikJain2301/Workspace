@@ -7,7 +7,7 @@ TC_001
     Maximize Browser Window
     Input Text    name:search_query    Khabarein Rap Junkie
     Click Element    css=#search-icon-legacy
-    
+    Set Selenium Timeout    5s
     WHILE    True
         Sleep    2s
         Play my song
